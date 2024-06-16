@@ -51,6 +51,10 @@ section {
     margin-bottom: 1em;
 }
 
+.character h3{
+    margin-right: 1em;
+}
+
 .character img {
     max-width: 150px;
     margin-right: 1em;
